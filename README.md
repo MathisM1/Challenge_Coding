@@ -9,4 +9,4 @@ Comment l'utiliser ?
 On a 3 routes disponibles :
 - localhost:3000/joke (permet d'avoir une blague aléatoire)
 - localhost:3000/dark (permet d'avoir une blague un peu trash)
-- localhost:3000/mot  (permet d'avoir une blague en rapport avec le mot, exemple "localhost:3000/jaune" ressorti une blague avec le mot jaune)
+- localhost:3000/joke/mot  (permet d'avoir une blague en rapport avec le mot, exemple "localhost:3000/jaune" ressorti une blague avec le mot jaune)
